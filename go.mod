@@ -1,3 +1,3 @@
 module github.com/jhonghee/d
 
-require github.com/jhonghee/e v1.1.0
+require github.com/jhonghee/e v1.2.0

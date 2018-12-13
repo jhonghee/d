@@ -2,3 +2,5 @@ github.com/jhonghee/e v0.0.0-20181213034028-f0b580a930e3 h1:ZxhEQUw0AmgW42A978KV
 github.com/jhonghee/e v0.0.0-20181213034028-f0b580a930e3/go.mod h1:pH7bsqpbiNg3yUqI26MT/hgHrcc1XkD9Kf10OPMDMco=
 github.com/jhonghee/e v1.1.0 h1:arFQ4+j0VXNQ3n8j+3YY8mitvsaec28NYnHg/e2fwfQ=
 github.com/jhonghee/e v1.1.0/go.mod h1:pH7bsqpbiNg3yUqI26MT/hgHrcc1XkD9Kf10OPMDMco=
+github.com/jhonghee/e v1.2.0 h1:iKGBsCoyrNXykGbf/+l+8mMABliuOqqbLk4EHiQW1h4=
+github.com/jhonghee/e v1.2.0/go.mod h1:pH7bsqpbiNg3yUqI26MT/hgHrcc1XkD9Kf10OPMDMco=
